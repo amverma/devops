@@ -9,7 +9,7 @@ import org.junit.Test;
 
 public class MainTest {
 	
-	Main mainobj;
+	Main mainobj;// obj
 	@Before
 	public void setUp() throws Exception {
 		System.out.println("Setting up..");
