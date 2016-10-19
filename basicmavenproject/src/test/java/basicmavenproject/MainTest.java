@@ -9,7 +9,7 @@ import org.junit.Test;
 
 public class MainTest {
 	
-	Main mainobj;// obj
+	Main mainobj;// obj again changed
 	@Before
 	public void setUp() throws Exception {
 		System.out.println("Setting up..");
