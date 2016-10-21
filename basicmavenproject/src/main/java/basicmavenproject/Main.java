@@ -1,7 +1,8 @@
 package basicmavenproject;
 
 /**
- * A simple class to test git checkins
+ * A simple class to test git checkins. 
+ * Text Text Text Text Text Text Text 
  * @author AmitK.Verma
  *
  */
